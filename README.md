@@ -1,4 +1,4 @@
 # Public-python-scripts
-The pythonscripts I make that I feel like sharing
+The python scripts I make that I feel like sharing
 Most of these were made on a random whim.
 If you use or borrow any code from these python programs you must credit me as defined by the license!
