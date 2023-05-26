@@ -37,4 +37,4 @@ while True:	 # "While True" means the loop will go infinatly due to it not havin
     f.close()
     Times = int(Times) + 1  # adds 1 to the "Times" variable so it accuratly reflects the ammount of times this loop has run
     print('folder ' + pwd + ' made\n' + str(int(Times)) + ' folders made\n' 'disk space = ' + str(stat))
-    # prints the test "File (generated string) made (Number of loops) files made disk space = (usage statistics)"
+    # prints the text "File (generated string) made (Number of loops) files made disk space = (usage statistics)"
